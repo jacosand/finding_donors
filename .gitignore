@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 example_submission.csv
 test_census.csv
+__pycache__/*
